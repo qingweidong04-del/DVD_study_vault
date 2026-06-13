@@ -27,3 +27,6 @@ CREATE TABLE emp (
 
 ![[Pasted image 20260613165718.png]]
 ![[Pasted image 20260613165740.png]]
+![[Pasted image 20260613170118.png]]
+![[Pasted image 20260613170225.png]]
+![[Pasted image 20260613170409.png]]
