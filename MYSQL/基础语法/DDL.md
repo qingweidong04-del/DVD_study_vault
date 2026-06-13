@@ -30,3 +30,5 @@ CREATE TABLE emp (
 ![[Pasted image 20260613170118.png]]
 ![[Pasted image 20260613170225.png]]
 ![[Pasted image 20260613170409.png]]
+# 总结
+![[Pasted image 20260613171009.png]]
